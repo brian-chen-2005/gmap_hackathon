@@ -6,6 +6,8 @@ Photorealistic 3D Visualization of Seattle Traffic Camera Data.
 
 Pandas used to clean and process City of Seattle traffic camera data (CC0: Public Domain).
 
+[![](https://img.youtube.com/vi/euwJZmTa2h8&ab_channel=BrianChen/0.jpg)](https://www.youtube.com/watch?v=euwJZmTa2h8&ab_channel=BrianChen)
+
 # To run
 
 **Clone Repo:**
