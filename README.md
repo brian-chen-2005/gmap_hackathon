@@ -20,18 +20,18 @@ Pandas used to clean and process City of Seattle traffic camera data (CC0: Publi
 
 ~~line 9: let gmapKey = "[key here]";~~
 
-**Run Local Hosting (Tested on Mac with Python3):**
-_local hosting so the js papaparse can use the compressed csv file_
+~~**Run Local Hosting (Tested on Mac with Python3):**~~
+~~_local hosting so the js papaparse can use the compressed csv file_~~
 
-cd brian_chen_gmap_hackathon
+~~cd brian_chen_gmap_hackathon~~
 
-source bin/activate
+~~source bin/activate~~
 
-python3 -m http.server
+~~python3 -m http.server~~
 
-**Open Webpage:**
+~~**Open Webpage:**~~
 
-http://localhost:8000/index.html
+~~http://localhost:8000/index.html~~
 
 # Future Avenues for Usability Improvement:
 * Frontend Improvements in UI and UX
