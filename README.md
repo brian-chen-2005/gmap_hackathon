@@ -10,7 +10,7 @@ Pandas used to clean and process City of Seattle traffic camera data (CC0: Publi
 
 # To run
 
-[brianchengmaphackathondemo.com](brianchengmaphackathondemo.com)
+[brianchengmaphackathondemo.com](https://brianchengmaphackathondemo.com/)
 
 ~~**Clone Repo:**~~
 
