@@ -10,13 +10,15 @@ Pandas used to clean and process City of Seattle traffic camera data (CC0: Publi
 
 # To run
 
-**Clone Repo:**
+brianchengmaphackathondemo.com
 
-git clone https://github.com/brian-chen-2005/gmap_hackathon.git
+~~**Clone Repo:**~~
 
-**Open script.js to change API key:**
+~~git clone https://github.com/brian-chen-2005/gmap_hackathon.git~~
 
-line 9: let gmapKey = "[key here]";
+~~**Open script.js to change API key:**~~
+
+~~line 9: let gmapKey = "[key here]";~~
 
 **Run Local Hosting (Tested on Mac with Python3):**
 _local hosting so the js papaparse can use the compressed csv file_
